@@ -1,3 +1,2 @@
 # hello-world
-First repo
-change 1
+First repo for test projects.
